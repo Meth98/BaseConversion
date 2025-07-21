@@ -10,5 +10,4 @@ A Shell script to show a number in different bases:
 4 - Decimal
 <hr>
 <em><strong> USAGE: </strong></em><br><br>
-
 &nbsp; ./base_conversion.sh [num1] [num2] [num3] ...
