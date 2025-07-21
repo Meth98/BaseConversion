@@ -5,7 +5,7 @@ A Shell script to shows a number in different bases:
 2 - Octal (base 8) <br>
 3 - Hexadecimal (base 16) <br>
 4 - Decimal
-
+<hr>
 USAGE:
 
 ./base_conversion.sh [<num1>] [<num2>] [<num3>] ...
