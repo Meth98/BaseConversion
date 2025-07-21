@@ -6,6 +6,5 @@ A Shell script to show a number in different bases:
 3 - Hexadecimal (base 16) <br>
 4 - Decimal
 <hr>
-USAGE:
-
+USAGE:<br>
 ./base_conversion.sh [num1] [num2] [num3] ...
