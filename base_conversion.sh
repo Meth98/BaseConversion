@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#################################################################
-## Description: Script that shows a number in different bases
+###############################################################
+## Description: Script to shows a number in different bases
 ##
 ## Author: Matteo Z.
-#################################################################
+###############################################################
 
 script=`basename "$0"`               # script name
 
