@@ -1,4 +1,4 @@
-# base-conversion
+# BaseConversion
 A Shell script to show a number in different bases:
 
 1 - Binary (base 2) <br>
